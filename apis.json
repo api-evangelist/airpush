@@ -1,0 +1,80 @@
+{
+    "name": "Airpush",
+    "description": "World class mobile ad network and mobile app monetization using first-party data and the most advanced targeting and ad formats. The world's top advertisers rely on Airpush to reach mobile users and top developers and publishers use Airpush for the hig...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1863-airpush.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airpush\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Airpush",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1863-airpush.jpg",
+            "humanURL": "http:\/\/www.airpush.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.airpush.com\/category\/airpush-mobile-advertising-blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.airpush.com\/category\/airpush-mobile-advertising-blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/airpush"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/airpush"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.airpush.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "o.vladimir@airpush.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@airpush.com"
+        },
+        {
+            "type": "Email",
+            "url": "childapp@airpush.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@airpush.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@airpush.com"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/www.airpush.com\/siteterms\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/twitter.com\/AirPushAds"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.airpush.com\/"
+        }
+    ]
+}
